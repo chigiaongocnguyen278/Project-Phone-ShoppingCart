@@ -1,0 +1,21 @@
+Group 1
+Teamlead:Giao
+Team member1: Giao
+Team member2: Nhan
+
+Tasks Name	    Start	Finish	    %Build      Names	    Start     Finish    %Testing   Names
+			                                    Testing    Testing	  
+              	
+Admin Page   	10/3	20/3	   	100%		Giao	    31/3	   2/4       100%       Giao
+User Page	   	10/3	20/3		100%		Giao	    31/3	   2/4       100%       Giao
+(UI/UX)
+ADD	            10/3	20/3		100%		Giao	    31/3	   2/4       100%       Giao
+DELETE          21/3	31/3		100%		Giao	    31/3	   2/4       100%       Giao
+UPDATE	        21/3    31/3		100%		Giao	    31/3	   2/4       100%       Giao
+FIND	        21/3    31/3    	100%		Giao	    31/3	   2/4       100%       Giao
+SORT            21/3    31/3    	100%		Giao	    31/3	   2/4       100%       Giao
+
+Functions 	    10/3	20/3	    100%		Nhan	    31/3	   2/4       100%       Nhan
+ (user page)  		   
+		  	    21/3	2/4		    100%		Nhan	   	31/3	   2/4       100%       Nhan
+ 	            

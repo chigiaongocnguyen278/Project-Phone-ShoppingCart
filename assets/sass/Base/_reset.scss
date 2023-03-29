@@ -1,0 +1,52 @@
+//Các code reset chung cho cả web
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+html,body{
+    font-family: 'Nunito', sans-serif;
+    font-size: $fs-1;
+}
+
+  body {
+    margin-bottom: 0px;
+    background-color: #f7f7f7;
+  }
+  a {
+    text-decoration: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  
+  p {
+    margin: 0 0 16px;
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  button{
+    margin: 0;
+    padding: 0;
+  }
+  
+  :root {
+    --first-color: #F2A20C;
+    --white-color: #E9EAEC;
+    --dark-color: #272D40;
+    --dark-color-lighten: #F2F5FF;
+    --body-font: 'Poppins', sans-serif;
+    --h1-font-size: 1.5rem;
+    --h2-font-size: 1.25rem;
+    --normal-font-size: 1rem;
+    --small-font-size: .875rem;
+  }
