@@ -1,6 +1,6 @@
-function CartItem () {
-     {
-      this.product = _product;
-      this.quantity = _quantity;
-    }
+export default class CartItem {
+  constructor(product){
+    this.product = product;
+    this.quanlity = 1;
   }
+}
